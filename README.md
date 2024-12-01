@@ -1,6 +1,6 @@
 # autosave.nvim
 
-**autosave.nvim** is a Neovim plugin that automatically saves your files based on specific events like leaving insert mode or changing text in normal mode. It offers customizable options to include or exclude specific directories, configure delay, and enable/disable notifications.
+**autosave.nvim** is a Neovim plugin that automatically saves your files wwhen you leave insert mode or change text in normal mode. It offers customizable options to include or exclude specific directories, configure delay, and enable/disable saving notifications.
 
 ## Features
 - Automatically saves files in specified directories.
